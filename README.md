@@ -8,6 +8,7 @@
 Ich konnte leider nicht mehr am Modul 319 arbeiten dafür habe ich aber meine anderen Ziele gut erreicht und in den Moodle Test die volle Punktzahl erreicht.
 
 
+
 ## 16.8.2024
 ### Ziele
 1. Als erstes möchte ich die Digitale Uhr von Modul 319 fertig machen und verstehen
