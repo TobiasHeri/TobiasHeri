@@ -4,7 +4,8 @@
 1. Zuerst will ich eine genaue Planung machen, die ich auch  gut einhalten kann.
 2. danach will ich an den Moodle aufgaben weiter machen und sicher 3 moodle aufgaben abschliessen
 3. Als letztes werde ich noch im Modul 319 weiter arbeiten und meine Hausaufgaben auf Dienstag fertig machen.
-
+### Reflexion 
+Ich konnte leider nicht mehr am Modul 319 arbeiten dafür habe ich aber meine anderen Ziele gut erreicht und in den Moodle Test die volle Punktzahl erreicht.
 
 
 ## 16.8.2024
