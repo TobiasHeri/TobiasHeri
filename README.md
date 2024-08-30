@@ -4,6 +4,8 @@
 1. Zuerst will ich an diesem Imput teilnehmen und alles verstehen können.
 2. Danach werde ich am Modul 319 arbeiten
 3. Wenn ich keine Lust habe zu Programmieren arbeite ich an den Moodle Tests im Modul 431 weiter
+### Reflexion
+Heute habe ich es geschafft einen einfachen Tschenrechner zu Programmieren und im Modul 431 habe ich einen Auftrag abgeben können.
 ## 23.08.2024
 ### Ziele
 1. Zuerst will ich eine genaue Planung machen, die ich auch  gut einhalten kann.
