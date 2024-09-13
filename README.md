@@ -1,4 +1,9 @@
 # Planung Lernatelier
+## 13.09.2024
+### Ziele
+1. Zuerst mache ich beim Modul 431 weiter und schliesse mich wieder dem Zeitplan an
+2. Danach mache ich das Tic Tac Toe
+3. Am Ende mache ich meine Reflexion
 ## 30.08.2024
 ### Ziele
 1. Zuerst will ich an diesem Imput teilnehmen und alles verstehen können.
