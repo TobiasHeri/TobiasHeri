@@ -1,4 +1,10 @@
 # Planung Lernatelier
+## 20.09.2024
+### Ziele
+1. Mache ich ein paar Programmier aufgaben
+2. beende ich noch das modul 431 ohne die exp ziele
+### Reflexion
+Leider hat das programmieren länger gebraucht als ich dachte dafür verstehe ich es jetzt viel besser.
 ## 13.09.2024
 ### Ziele
 1. Zuerst mache ich beim Modul 431 weiter und schliesse mich wieder dem Zeitplan an
