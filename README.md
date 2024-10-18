@@ -12,6 +12,11 @@ Leider hat das programmieren länger gebraucht als ich dachte dafür verstehe ic
 3. Am Ende mache ich meine Reflexion
 ### Reflexion
 Ich habe meine Ziele erreicht aber ich habe etwas anderes als das Tic Tac Toe programmiert und verstehe wieder mehr.
+## 06.09.2024
+### Ziele
+Ich weiss nicht mehr genau woran ich gearbeitet habe aber wahrscheinlich habe ich vorallem am Modul 431 gearbeitet und sicher etwa 3 moodle abgaben gemacht habe.
+### Reflexion
+Ich denke ich konnte alle Ziele an diesem Tag erreichen da ich jetzt am Ende des Moduls alle Aufgaben auf Moodle beendet habe mit den Exz
 ## 30.08.2024
 ### Ziele
 1. Zuerst will ich an diesem Imput teilnehmen und alles verstehen können.
