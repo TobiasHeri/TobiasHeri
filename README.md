@@ -1,4 +1,8 @@
 # Planung Lernatelier
+## 18.10.2024
+### Ziele
+Ich will und kann heute nur am Modul 319 arbeiten und will dort vorallem ein paar Programmier Beispiele lösen.
+
 ## 20.09.2024
 ### Ziele
 1. Mache ich ein paar Programmier aufgaben
