@@ -2,7 +2,8 @@
 ## 18.10.2024
 ### Ziele
 Ich will und kann heute nur am Modul 319 arbeiten und will dort vorallem ein paar Programmier Beispiele lösen.
-
+### Reflexion
+Ich finde ich habe heute sehr gut gearbeitet und konnte ein paar Programmierbeispile lösen jedich nur mit ein bisschen hilfe von KI
 ## 20.09.2024
 ### Ziele
 1. Mache ich ein paar Programmier aufgaben
