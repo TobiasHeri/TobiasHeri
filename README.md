@@ -1,4 +1,7 @@
 # Planung Lernatelier
+## 01.11.2024
+### Ziele
+Heute werde ich am Modul 319 arbeiten und ein paar programme schreiben damit ich mich gut auf die Prüfung vorbereite.
 ## 25.10.2024
 ### Ziele
 Ich will heute durch alle Folien vom Modul 319 durch gehen die ich noch nicht so behersche.
