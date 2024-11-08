@@ -1,4 +1,7 @@
 # Planung Lernatelier
+## Ziele 
+Heute will ich mit Vincent an unserem Projekt weiterarbeiten und vorallem die Funktionsanalyse fertig machen.
+Danach werden wir uns mehr mit dem Programmieren beschäfäftigen und zuerst ein Pap machen damit wir eine erste Idee haben.
 ## 01.11.2024
 ### Ziele
 Heute werde ich am Modul 319 arbeiten und ein paar programme schreiben damit ich mich gut auf die Prüfung vorbereite.
