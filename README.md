@@ -1,5 +1,6 @@
-# Planung Lernatelier
-## Ziele 
+# Planung Lernatelie
+## 08.11.2024
+### Ziele 
 Heute will ich mit Vincent an unserem Projekt weiterarbeiten und vorallem die Funktionsanalyse fertig machen.
 Danach werden wir uns mehr mit dem Programmieren beschäfäftigen und zuerst ein Pap machen damit wir eine erste Idee haben.
 Wenn ich noch genug zeit habe will ich noch selber ein einfaches Programm schreiben.
