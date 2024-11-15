@@ -1,4 +1,8 @@
 # Planung Lernatelie
+## 15.11.2024
+### Ziele
+Ich will heute das Pap design fertig stellen.
+Herr meier eine email schicken das wir das Projekt mit ihm besprechen können
 ## 08.11.2024
 ### Ziele 
 Heute will ich mit Vincent an unserem Projekt weiterarbeiten und vorallem die Funktionsanalyse fertig machen.
