@@ -4,6 +4,8 @@
 Ich will heute das Pap design fertig stellen.
 Herr meier eine email schicken das wir das Projekt mit ihm besprechen können
 Ich werde Heute noch im Modul witerfahren den ich habe eine Aufgabe noch nicht ganz fertig machen können.
+### Reflexion
+Ich finde ich konnte mich sehr gut auf meine Aufgaben konzentrieren und wurde nich von anderen abgelenkt und habe somit meine Ziele erreicht, wir haben jetzt auch ein GEspräch mit Herr Meier am Montag während der sfrw Lektion. 
 ## 08.11.2024
 ### Ziele 
 Heute will ich mit Vincent an unserem Projekt weiterarbeiten und vorallem die Funktionsanalyse fertig machen.
