@@ -1,4 +1,7 @@
 # Planung Lernatelie
+## 22.11.2024
+### Ziele
+Wie haben diese Woche mit dem Programmieren angefangen und wollen heute sicher dort weiter machen danach wenn ich noch Zeit habe will ich noch im Modul 162 weiterfahren.
 ## 15.11.2024
 ### Ziele
 Ich will heute das Pap design fertig stellen.
