@@ -2,6 +2,8 @@
 ## 22.11.2024
 ### Ziele
 Wie haben diese Woche mit dem Programmieren angefangen und wollen heute sicher dort weiter machen danach wenn ich noch Zeit habe will ich noch im Modul 162 weiterfahren.
+### Reflexion
+Wir haben heute das Programm beendet haben uns aber leicht ablenken lassen und daher konnte ich nicht mehr im Modul 162 arbeiten.
 ## 15.11.2024
 ### Ziele
 Ich will heute das Pap design fertig stellen.
