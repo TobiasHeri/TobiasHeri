@@ -1,4 +1,7 @@
 # Planung Lernatelie
+## 29.11.2024
+### Ziele
+Heute werde ich noch das Programm verbessern den wir haben noch ein paar kleinigkeiten die wir verbessern müssen ich werde auch noch an der Presentation arbeiten damit wir gut vorberietet sind und zuletzt wenn ich noch genug Zeit habe mache ich noch die letzte Aufgabe die mir noch fehlt im 162
 ## 22.11.2024
 ### Ziele
 Wie haben diese Woche mit dem Programmieren angefangen und wollen heute sicher dort weiter machen danach wenn ich noch Zeit habe will ich noch im Modul 162 weiterfahren.
