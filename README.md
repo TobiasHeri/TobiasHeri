@@ -1,4 +1,7 @@
 # Planung Lernatelie
+## 06.12.2024
+### Ziele
+Heute werde ich mir nochmal die Normalformen anschauen und die verschiedenen Tabellen formen ich will auch ein neues Programmierprojekt anfangen und es könnte in die richtung von einem Spiel
 ## 29.11.2024
 ### Ziele
 Heute werde ich noch das Programm verbessern den wir haben noch ein paar kleinigkeiten die wir verbessern müssen ich werde auch noch an der Presentation arbeiten damit wir gut vorberietet sind und zuletzt wenn ich noch genug Zeit habe mache ich noch die letzte Aufgabe die mir noch fehlt im 162
