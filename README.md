@@ -2,6 +2,8 @@
 ## 13.12.2024
 ### Ziele 
 Heute werden wir die Zeitplanung machen damit wir wissen wie viel wir arbeiten müssen um unser Projekt zu beenden danach machen wir uns schon ans Programmieren und Hoffen das wir Heute sehr weit kommen.
+### Reflexion
+Ich finde ich habe heute gut mit Vincent zusammen gearbeitet und wir sind gut vorangekommen im Programm
 ## 06.12.2024
 ### Ziele
 Heute werde ich mir nochmal die Normalformen anschauen und die verschiedenen Tabellen formen ich will auch ein neues Programmierprojekt anfangen und es könnte in die richtung von einem Spiel
