@@ -2,6 +2,8 @@
 ## 20.12.2024
 ### Ziele
 Heute wollen wir unser Programm in eine Grafik umwandeln wir wissen zwar nicht wie das geht aber wir wollen es lernen ich denke das uns dieses Ziel den ganzen nachmittag füllen wird aber wenn wir es vorher schaffen machen wir noch ein testprotokol
+### Reflexion
+Ich finde wir haben heute gut gearbeitet sind jedoch noch nicht so weit mit der Grafik gekommen da es sehr anspruchsvoll ist und komplieziert
 ## 13.12.2024
 ### Ziele 
 Heute werden wir die Zeitplanung machen damit wir wissen wie viel wir arbeiten müssen um unser Projekt zu beenden danach machen wir uns schon ans Programmieren und Hoffen das wir Heute sehr weit kommen.
