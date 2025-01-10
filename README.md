@@ -1,4 +1,7 @@
 # Planung Lernatelie
+## 10.01.2025
+### Ziele
+Wir wollen heute schauen was wir an unserem Programm verbessern können den mit dem Groben sind wir fertig wir müssen noch ein bisschen im Modul 164 nachholen, wir wollen auch unser projekt mit Frau Rieder besprechen.
 ## 20.12.2024
 ### Ziele
 Heute wollen wir unser Programm in eine Grafik umwandeln wir wissen zwar nicht wie das geht aber wir wollen es lernen ich denke das uns dieses Ziel den ganzen nachmittag füllen wird aber wenn wir es vorher schaffen machen wir noch ein testprotokol
