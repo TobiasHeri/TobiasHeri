@@ -1,4 +1,7 @@
-# Planung Lernatelie
+# Planung 
+## 17.01.2025
+### Ziele
+Heute wollen wir unser Projekt erweitern mit farben und vileicht wenn wir es schaffen auch noch ein modus gegen den Bot spielen, danach werden wir noch paar Aufträge vom Modul 117 machen.
 ## 10.01.2025
 ### Ziele
 Wir wollen heute schauen was wir an unserem Programm verbessern können den mit dem Groben sind wir fertig wir müssen noch ein bisschen im Modul 164 nachholen, wir wollen auch unser projekt mit Frau Rieder besprechen.
