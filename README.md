@@ -2,6 +2,8 @@
 ### 24.01.2025
 ### Ziele 
 WWir versuchen heute ein Menu neben dem Hauptbrett zu machen damit die Spieler zum Beispiel ihren namen oder farbe selber wählen können.
+### Reflexion
+Ich finde wir haben heute gut gearbeitet und wir haben es nicht geschaft ein menu zu machen aber bevor das Spiel anfäng wird der name und die farbe abgefragt
 ## 17.01.2025
 ### Ziele
 Heute wollen wir unser Projekt erweitern mit farben und vileicht wenn wir es schaffen auch noch ein modus gegen den Bot spielen, danach werden wir noch paar Aufträge vom Modul 117 machen.
