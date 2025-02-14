@@ -2,6 +2,8 @@
 ### 14.02.2025
 ## Ziele 
 Heute muss ich noch eine kleine änderung am Ip-Konzept machen danach will ich noch im LB wieterfahren und wenn ich noch genung Zeit habe werden ich und Vincent vieleicht noch unser Tic Tac Toe weiterführen und änderungen vornehmen.
+### Reflexion
+Ich finde ich habe heute gut gearbeitet und bin bei meiner LB vorbeireitung ein gutes Stück weitergekommen leider konnte ich dann nicht mehr viel am Programm machen.
 ### 24.01.2025
 ### Ziele 
 WWir versuchen heute ein Menu neben dem Hauptbrett zu machen damit die Spieler zum Beispiel ihren namen oder farbe selber wählen können.
